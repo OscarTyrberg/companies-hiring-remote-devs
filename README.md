@@ -312,6 +312,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Mattermost](https://jobs.lever.co/mattermost/?location=Remote) | USA, Australia, India, Europe, Asia, South America, Mexico | |
 |[Medely](https://jobs.ashbyhq.com/medely) | USA | |
 |[Mediavine](https://apply.workable.com/mediavine/) | USA | |
+|[Medusa](https://medusajs.com/careers/) | North America & Europe | Remote. |
 |[Medium](https://jobs.lever.co/medium) | USA | |
 |[MEGA](https://careers.mega.nz) | Europe, New Zealand, APAC | Offices: New Zealand and Spain. |
 |[MessageBird](https://messagebird.com/en/careers/?jobs=engineering) | EMEA, LATAM | |
